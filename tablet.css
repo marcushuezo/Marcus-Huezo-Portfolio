@@ -160,3 +160,55 @@ a {
   color: white;
   text-decoration: underline;
 }
+/* About me CSS */
+#aboutContent {
+  padding: 30px 0px 30px;
+}
+#aboutContent h1 {
+  font-size: 40px;
+  margin: 0px 0px 24px;
+}
+#aboutVideo {
+  display: block;
+  width: 90%;
+  height: auto;
+  margin: 0px auto 20px;
+  background-color: black;
+}
+.aboutSection {
+  clear: both;
+  padding: 0px 0px 30px;
+}
+.aboutSection h2 {
+  font-size: 28px;
+  margin: 0px 0px 22px;
+}
+.experienceBox {
+  margin: 0px 0px 24px;
+  padding: 22px 4%;
+  background-color: #EBE0DD;
+  border: 1px solid #8A9EAB;
+  border-radius: 8px;
+}
+.experienceBox h3 {
+  font-size: 24px;
+  margin: 0px 0px 14px;
+}
+.experienceBox h4 {
+  color: #142030;
+  font-family: "Space Grotesk", Arial, sans-serif;
+  font-size: 18px;
+  margin: 0px 0px 18px;
+}
+.experienceBox p {
+  color: #1F2D3D;
+  font-size: 18px;
+  margin: 0px 0px 18px;
+}
+.experienceLogo {
+  display: block;
+  float: none;
+  width: 140px;
+  height: auto;
+  margin: 0px auto 20px;
+}
