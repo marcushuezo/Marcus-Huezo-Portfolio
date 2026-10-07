@@ -1,5 +1,5 @@
 @charset "UTF-8";
-/*Index CSS*/
+/*Index Page CSS*/
 body {
   background-color: #F7F2E8;
   color: #1F2D3D;
@@ -170,7 +170,7 @@ a {
   color: white;
   text-decoration: underline;
 }
-/* About me CSS */
+/* About me Page CSS */
 #aboutContent {
   padding: 30px 0px 30px;
 }
@@ -221,4 +221,50 @@ a {
   width: 170px;
   height: auto;
   margin: 0px 0px 20px 30px;
+}
+.travelBox {
+  float: left;
+  width: 30%;
+  margin-right: 5%;
+  padding-bottom: 24px;
+}
+.lastTravel {
+  margin-right: 0px;
+}
+.travelBox h3 {
+  font-size: 24px;
+  margin: 0px;
+  padding-bottom: 12px;
+}
+.travelPhoto {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+/* Projects Page  CSS */
+#projectsContent {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+#projectsContent h1 {
+  font-size: 40px;
+  margin: 0px;
+}
+.projectBox {
+  margin-top: 24px;
+  padding: 4%;
+  background-color: #EBE0DD;
+  border: 1px solid #8A9EAB;
+  border-radius: 8px;
+}
+.projectBox h2 {
+  font-size: 26px;
+  margin: 0px;
+}
+.projectBox p {
+  color: #1F2D3D;
+  font-size: 18px;
+  margin: 0px;
+  margin-top: 14px;
 }
