@@ -3,7 +3,7 @@
 body {
   background-color: #F7F2E8;
   color: #1F2D3D;
-  font-family: "Inter", Arial, sans-serif;
+  font-family: "Montserrat", Arial, sans-serif;
   font-size: 20px;
   padding: 0px;
   margin: 0px;
@@ -20,7 +20,7 @@ body {
 }
 h1,h2,h3 {
   color: #142030;
-  font-family: "Space Grotesk", Arial, sans-serif;
+  font-family: "Montserrat", Arial, sans-serif;
 }
 a {
   color: #1F2D3D;
@@ -79,11 +79,11 @@ a {
   width: 48%;
 }
 #introduction h1 {
-  font-size: 50px;
+  font-size: 46px;
   margin: 0px 0px 22px;
 }
 #introduction p {
-  font-size: 22px;
+  font-size: 21px;
   margin: 0px 0px 22px;
 }
 #profilePhoto
@@ -103,7 +103,7 @@ a {
   padding: 0px 0px 40px;
 }
 #connect h2 {
-  font-size: 30px;
+  font-size: 25px;
   margin: 0px 0px 22px;
 }
 .contactBox {
@@ -121,7 +121,7 @@ a {
 }
 .contactBox h3 {
   color: #142030;
-  font-size: 20px;
+  font-size: 18px;
   margin: 0px 0px 12px;
 }
 .contactBox a {
@@ -150,19 +150,23 @@ a {
   color: #F7F2E8;
 }
 #introduction h2 {
-  font-size: 28px;
+  font-size: 26px;
   margin: 50px 0px 12px;
 }
 .button {
-  display: block;
-  font-family: "Space Grotesk", Arial, sans-serif;
-  width: 220px;
+  display: inline-block;
+  float: left;
+  font-family: "Montserrat", Arial, sans-serif;
+  width: 44%;
+  height: auto;
   background-color: #4C6170;
   color: white;
-  padding: 8px 15px;
+  padding: 8px 1%;
+  margin-right: 2%;
   border: 1px solid #8A9EAB;
   border-radius: 5px;
-  font-size: 18px;
+  font-size: 16px;
+  text-align: center;
   text-decoration: none;
 }
 .button:hover {
@@ -175,7 +179,7 @@ a {
   padding: 30px 0px 30px;
 }
 #aboutContent h1 {
-  font-size: 48px;
+  font-size: 42px;
   margin: 0px 0px 24px;
 }
 #aboutVideo {
@@ -190,7 +194,7 @@ a {
   padding: 0px 0px 30px;
 }
 .aboutSection h2 {
-  font-size: 34px;
+  font-size: 32px;
   margin: 0px 0px 22px;
 }
 .experienceBox {
@@ -201,13 +205,13 @@ a {
   border-radius: 8px;
 }
 .experienceBox h3 {
-  font-size: 28px;
+  font-size: 26px;
   margin: 0px 0px 14px;
 }
 .experienceBox h4 {
   color: #142030;
-  font-family: "Space Grotesk", Arial, sans-serif;
-  font-size: 20px;
+  font-family: "Montserrat", Arial, sans-serif;
+  font-size: 21px;
   margin: 0px 0px 18px;
 }
 .experienceBox p {
@@ -232,7 +236,7 @@ a {
   margin-right: 0px;
 }
 .travelBox h3 {
-  font-size: 24px;
+  font-size: 22px;
   margin: 0px;
   padding-bottom: 12px;
 }

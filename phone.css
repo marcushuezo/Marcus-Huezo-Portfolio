@@ -2,7 +2,7 @@
 body {
   background-color: #F7F2E8;
   color: #1F2D3D;
-  font-family: "Inter", Arial, sans-serif;
+  font-family: "Montserrat", Arial, sans-serif;
   font-size: 18px;
   padding: 0px;
   margin: 0px;
@@ -19,7 +19,7 @@ body {
 }
 h1,h2,h3 {
   color: #142030;
-  font-family: "Space Grotesk", Arial, sans-serif;
+  font-family: "Montserrat", Arial, sans-serif;
 }
 a {
   color: #1F2D3D;
@@ -141,14 +141,17 @@ a {
 .button {
   display: block;
   float: left;
-  font-family: "Space Grotesk", Arial, sans-serif;
-  width: auto;
+  font-family: "Montserrat", Arial, sans-serif;
+  width: 40%;
+  height: 40px;
+  margin: 0px 4% 16px 0px;
   background-color: #4C6170;
   color: white;
-  padding: 10px 14px;
+  padding: 10px 1%;
   border: 1px solid #8A9EAB;
   border-radius: 5px;
-  font-size: 18px;
+  font-size: 16px;
+  text-align: center;
   text-decoration: none;
 }
 .button:hover {
@@ -192,7 +195,7 @@ a {
 }
 .experienceBox h4 {
   color: #142030;
-  font-family: "Space Grotesk", Arial, sans-serif;
+  font-family: "Montserrat", Arial, sans-serif;
   font-size: 18px;
   margin: 0px 0px 18px;
 }
@@ -207,4 +210,24 @@ a {
   width: 120px;
   height: auto;
   margin: 0px auto 20px;
+}
+.travelBox {
+  float: none;
+  width: 100%;
+  margin: 0px;
+  padding-bottom: 24px;
+}
+.lastTravel {
+  margin-right: 0px;
+}
+.travelBox h3 {
+  font-size: 22px;
+  margin: 0px;
+  padding-bottom: 12px;
+}
+.travelPhoto {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
 }
