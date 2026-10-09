@@ -258,3 +258,57 @@ a {
   margin: 0px;
   margin-top: 12px;
 }
+/* Contact me Page CSS */
+#formContent {
+  padding-top: 24px;
+  padding-bottom: 24px;
+}
+
+#formContent h1 {
+  font-size: 30px;
+  margin: 0px;
+  margin-bottom: 16px;
+}
+
+#formContent p {
+  font-size: 16px;
+  margin: 0px;
+  margin-bottom: 16px;
+}
+
+#contactForm {
+  padding: 4%;
+  background-color: #CCCCCC;
+  border: 1px solid #8A9EAB;
+  border-radius: 8px;
+}
+
+.form-fillout {
+  display: block;
+  width: 90%;
+  padding: 2%;
+  margin-top: 8px;
+  background-color: #EBE6DC;
+  color: #2B3E54;
+  border: 1px solid #8A9EAB;
+  border-radius: 5px;
+  font-family: "Montserrat", Arial, sans-serif;
+  font-size: 16px;
+}
+
+.form-button {
+  display: block;
+  width: 90%;
+  padding: 2%;
+  margin-bottom: 10px;
+  background-color: #4C6170;
+  color: white;
+  border: 1px solid #8A9EAB;
+  border-radius: 5px;
+  font-family: "Montserrat", Arial, sans-serif;
+  font-size: 16px;
+}
+
+.form-button:hover {
+  background-color: #2B3E54;
+}
