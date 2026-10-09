@@ -1,7 +1,7 @@
 @charset "UTF-8";
 body {
-  background-color: #F7F2E8;
-  color: #1F2D3D;
+  background-color: #EBE6DC;
+  color: #2B3E54;
   font-family: "Montserrat", Arial, sans-serif;
   font-size: 18px;
   padding: 0px;
@@ -18,14 +18,14 @@ body {
   margin-right: auto;
 }
 h1,h2,h3 {
-  color: #142030;
+  color: #2B3E54;
   font-family: "Montserrat", Arial, sans-serif;
 }
 a {
-  color: #1F2D3D;
+  color: #2B3E54;
 }
 #banner {
-  background: linear-gradient(to right, #142030 0%, #4C6170 85%, #65695B 100%);
+  background: linear-gradient(to right, #2B3E54 0%, #4C6170 30%, #65695B 70%);
   color: white;
   padding: 16px 0px;
 }
@@ -50,13 +50,13 @@ a {
   margin-right: 0px;
 }
 #navigation a.currentLink {
-  background-color: #F7F2E8;
-  color: #142030;
-  border: 1px solid #F7F2E8;
+  background-color: #EBE6DC;
+  color: #2B3E54;
+  border: 1px solid #EBE6DC;
 }
 #navigation a:hover {
-  background-color: #F7F2E8;
-  color: #142030;
+  background-color: #EBE6DC;
+  color: #2B3E54;
   text-decoration: underline;
 }
 #homeContent
@@ -109,12 +109,12 @@ a {
   margin-right: 0px;
 }
 .contactBox h3 {
-  color: #142030;
+  color: #2B3E54;
   font-size: 20px;
   margin: 0px 0px 12px;
 }
 .contactBox a {
-  color: #1F2D3D;
+  color: #2B3E54;
   font-size: 18px;
   text-decoration: underline;
 }
@@ -123,7 +123,7 @@ a {
 }
 #footer {
   clear: both;
-  background: linear-gradient(135deg, #142030 0%, #4C6170 85%, #65695B 100%);
+  background: linear-gradient(135deg, #2B3E54 0%, #4C6170 30%, #65695B 70%);
   color: white;
   padding: 14px 0px;
 }
@@ -136,7 +136,7 @@ a {
   text-decoration: underline;
 }
 #footer a:hover {
-  color: #F7F2E8;
+  color: #EBE6DC;
 }
 #introduction h2 {
   font-size: 28px;
@@ -159,7 +159,7 @@ a {
   text-decoration: none;
 }
 .button:hover {
-  background-color: #142030;
+  background-color: #2B3E54;
   color: white;
   text-decoration: underline;
 }
@@ -189,7 +189,7 @@ a {
 .experienceBox {
   margin: 0px 0px 24px;
   padding: 22px 4%;
-  background-color: #EBE0DD;
+  background-color: #EBE6DC;
   border: 1px solid #8A9EAB;
   border-radius: 8px;
 }
@@ -198,13 +198,13 @@ a {
   margin: 0px 0px 14px;
 }
 .experienceBox h4 {
-  color: #142030;
+  color: #2B3E54;
   font-family: "Montserrat", Arial, sans-serif;
   font-size: 18px;
   margin: 0px 0px 18px;
 }
 .experienceBox p {
-  color: #1F2D3D;
+  color: #2B3E54;
   font-size: 18px;
   margin: 0px 0px 18px;
 }
