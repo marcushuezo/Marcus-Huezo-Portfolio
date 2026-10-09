@@ -1,4 +1,5 @@
 @charset "UTF-8";
+/* Home Page CSS */
 body {
   background-color: #EBE6DC;
   color: #2B3E54;
@@ -102,7 +103,7 @@ a {
   padding: 22px 4%;
   border: 1px solid #8A9EAB;
   border-radius: 8px;
-  background-color: #EBE0DD;
+  background-color: #C0C4B7;
 }
 .lastBox {
   float: none;
@@ -163,7 +164,7 @@ a {
   color: white;
   text-decoration: underline;
 }
-/* About me CSS */
+/* About me Page CSS */
 #aboutContent {
   padding: 30px 0px 30px;
 }
@@ -189,7 +190,7 @@ a {
 .experienceBox {
   margin: 0px 0px 24px;
   padding: 22px 4%;
-  background-color: #EBE6DC;
+  background-color: #C0C4B7;
   border: 1px solid #8A9EAB;
   border-radius: 8px;
 }
@@ -234,4 +235,34 @@ a {
   width: 100%;
   height: auto;
   border-radius: 8px;
+}
+/* Projects Page CSS */
+#projectsContent {
+  padding-top: 28px;
+  padding-bottom: 28px;
+}
+
+#projectsContent h1 {
+  font-size: 36px;
+  margin: 0px;
+}
+
+.projectBox {
+  margin-top: 22px;
+  padding: 4%;
+  background-color: #C0C4B7;
+  border: 1px solid #8A9EAB;
+  border-radius: 8px;
+}
+
+.projectBox h2 {
+  font-size: 24px;
+  margin: 0px;
+}
+
+.projectBox p {
+  color: #1F2D3D;
+  font-size: 18px;
+  margin: 0px;
+  margin-top: 14px;
 }

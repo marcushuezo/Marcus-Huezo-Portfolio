@@ -113,7 +113,7 @@ a {
   padding: 24px 2%;
   border: 1px solid #8A9EAB;
   border-radius: 8px;
-  background-color: #EBE0DD;
+  background-color: #C0C4B7;
 }
 .lastBox {
   float: right;
@@ -200,7 +200,7 @@ a {
 .experienceBox {
   margin: 0px 0px 24px;
   padding: 22px 4%;
-  background-color: #EBE0DD;
+  background-color: #C0C4B7;
   border: 1px solid #8A9EAB;
   border-radius: 8px;
 }
@@ -258,7 +258,7 @@ a {
 .projectBox {
   margin-top: 24px;
   padding: 4%;
-  background-color: #EBE0DD;
+  background-color: #C0C4B7;
   border: 1px solid #8A9EAB;
   border-radius: 8px;
 }
