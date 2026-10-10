@@ -48,7 +48,6 @@ a {
   text-decoration: none;
 }
 #navigation a.lastLink {
-  float: right;
   margin-right: 0px;
 }
 #navigation a.projectsLink {
